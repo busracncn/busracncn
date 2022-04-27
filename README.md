@@ -11,8 +11,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 ![Hi !](https://user-images.githubusercontent.com/48771071/165645933-5d127356-766a-4623-a698-151432abc6ed.png)
+-->
+
 
 Hi 👋 My name is Büşra Can
 ==========================
