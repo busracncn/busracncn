@@ -24,5 +24,5 @@ I've been learning coding for a time that I can't remember exactly, but I've bee
 
 *   🌍  I'm living in Turkey
 *   🧠  I'm learning Django, HTML, JavaScript, CSS
-*   ⚡  Fun fact: I'm the just dance queen. 
+*   ⚡  Fun fact: I'm the Just Dance queen. 
 *    📫 How to reach me: https://www.linkedin.com/in/busracan/
