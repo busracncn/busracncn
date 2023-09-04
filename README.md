@@ -15,10 +15,3 @@ Here are some ideas to get you started:
 -->
 
 ![HELLO THERE!](https://user-images.githubusercontent.com/48771071/165647073-62b29ed7-243b-496c-a151-d1324ae319a0.png)
-
-Hi 👋 My name is Büşra Can
-==========================
-
-Web Developer
------------------------------
-*    📫 How to reach me: https://www.linkedin.com/in/busracan/
